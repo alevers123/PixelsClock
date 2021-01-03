@@ -1,0 +1,7 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"C31","C","C_1206_3216Metric",55.568230,8.098192,180.000000,bottom
+"C32","CP","CP_EIA-6032-28_Kemet-C",53.980730,4.415192,180.000000,bottom
+"FID4","Fiducial","Fiducial_1mm_Mask2mm",120.909730,23.465192,-0.000000,bottom
+"FID5","Fiducial","Fiducial_1mm_Mask2mm",6.355730,23.719192,-0.000000,bottom
+"FID6","Fiducial","Fiducial_1mm_Mask2mm",120.909730,4.415192,-0.000000,bottom
+"J1","Conn_02x03_Top_Bottom","PinHeader_2x03_P1.00mm_Vertical_SMD",60.632230,5.686192,270.000000,bottom

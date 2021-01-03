@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name FC20)(type Legacy)(uri /home/aevers/Clock/CTRLPCB/ExternalLibs/FC20/FC20.lib)(options "")(descr ""))
+  (lib (name ESP32-DEVKITC-32D)(type Legacy)(uri /home/aevers/Clock/CTRLPCB/ExternalLibs/ESP32-DEVKITC-32D/ESP32-DEVKITC-32D.lib)(options "")(descr ""))
+  (lib (name esp32_devkit_v1_doit)(type Legacy)(uri /home/aevers/Clock/CTRLPCB/ExternalLibs/ESP32_DEVKIT_V1/esp32_devkit_v1_doit.lib)(options "")(descr ""))
+  (lib (name LMR33630ADDA)(type Legacy)(uri /home/aevers/Clock/CTRLPCB/ExternalLibs/LMR33630ADDA/LMR33630ADDA.lib)(options "")(descr ""))
+)
